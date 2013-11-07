@@ -1,0 +1,26 @@
+<header>
+	<h1> Make Money 462</h1>
+		<nav>
+				<ul>
+					<?php if($user): ?>
+						<li><a href="/posts/add">Add Post</a></li>
+						<li><a href="/posts">View Posts</a></li>
+						<li><a href="/posts/users">Follow users</a></li>
+						<li><a href="/users/logout"> Logout</a></li>
+						<?php else: ?>
+						<li><a href="/users/signup"> Sign up</a></li>
+						<li><a href="/users/login">Log in</a></li>
+					<?php endif; ?>
+				</ul>	
+
+		</nav>
+</header>
+
+
+<!-- <link href="css/template.css" type="text/css" rel="stylesheet"/>-->
+
+
+
+to stop some one from entering site === if(!this->user){
+	die("Members only");
+}

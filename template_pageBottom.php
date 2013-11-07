@@ -1,0 +1,1 @@
+<div id="pageBottom">&copy;2013 Make Money 462</div>

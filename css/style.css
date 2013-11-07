@@ -1,0 +1,157 @@
+
+body{
+	color: black;
+	
+	background-image: url(stock_ticker.jpeg);
+	background-position: center;
+	font-family: Georgia, Times, serif;
+	line-height: 1.4em;
+	font-size: 14px; 
+	margin: 0px;
+}
+
+
+#pageTop{
+	
+	background:url(stack_of_money.jpeg);
+	height: 200px;
+
+}
+#pageTop >#pageTopWrap {
+	width: 1000px;
+	margin: 0px auto;
+	height: 90px;
+}
+
+#pageTop > #pageTopWrap > #pageTopLogo {
+	float: left;
+	height: 90px;
+	width: 108px;
+}
+
+#pageTop >#pageTopWrap >#pageTopRest{
+	float: left;
+	width: 880px;
+	height: 90px;
+	
+}
+
+#pageTop > #pageTopWrap > #pageTopRest > #menu1 {
+	height: 44px;
+}
+
+
+#pageTop > #pageTopWrap > #pageTopRest > #menu1 > div {
+	margin-top: 8px;
+	padding: 4px;
+	text-align:right;
+}
+#pageTop > #pageTopWrap > #pageTopRest > #menu1 > div > a {
+	color: red;
+	text-decoration: none;
+}
+#pageTop > #pageTopWrap > #pageTopRest > #menu1 > div > a:hover {
+	color: #C0E73D;
+}
+#pageTop > #pageTopWrap > #pageTopRest > #menu2 {
+	height: 44px;
+}
+#pageTop > #pageTopWrap > #pageTopRest > #menu2 > div {
+	margin-top: 2px;
+	padding: 4px;
+}
+#pageTop > #pageTopWrap > #pageTopRest > #menu2 > div > a {
+	display: block;
+	float: left;
+	color:red;
+	text-decoration: none;
+	margin: 0px 16px;
+	font-size: 30px;
+}
+#pageTop > #pageTopWrap > #pageTopRest > #menu2 > div > a:hover {
+	color: #C0E73D;
+}
+
+#pageTop > #pageTopWrap > #pageTopRest > #menu3 {
+	height: 44px;
+}
+
+
+#pageTop > #pageTopWrap > #pageTopRest > #menu3 > div {
+	margin-top: 8px;
+	padding: 4px;
+	text-align:right;
+}
+#pageTop > #pageTopWrap > #pageTopRest > #menu3 > div > a {
+	color: #CCC;
+	text-decoration: none;
+}
+#pageTop > #pageTopWrap > #pageTopRest > #menu3 > div > a:hover {
+	color: #C0E73D;
+}
+#pageTop > #pageTopWrap > #pageTopRest > #menu4 {
+	height: 44px;
+}
+#pageTop > #pageTopWrap > #pageTopRest > #menu4 > div {
+	margin-top: 2px;
+	padding: 4px;
+}
+#pageTop > #pageTopWrap > #pageTopRest > #menu4 > div > a {
+	display: block;
+	float: left;
+	color:#CCC;
+	text-decoration: none;
+	margin: 0px 16px;
+
+}
+#pageTop > #pageTopWrap > #pageTopRest > #menu4 > div > a:hover {
+	color: #C0E73D;
+}
+
+
+
+#pageMiddle1{
+	width: 1000px;
+	margin: 0px auto;
+	height: 900px;
+background-color: white;
+
+}
+
+#pageMiddle{
+	width: 1000px;
+	margin: 0px auto;
+	
+	height: auto;
+background-color: white;
+
+}
+
+
+
+#pageBottom{
+	background: #666;
+	padding: 80px;
+	font-size: 20px;
+	color: black;
+	text-align: center;
+	height: 100px;
+}
+
+article{
+	font-size: 20px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 15px; 
+	clear: both;
+	width: 100%;
+}
+
+h1{
+	text-align: center;
+	width: 940px;
+	height: 130px;
+	margin: 0px;
+}
+
+
